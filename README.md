@@ -2,6 +2,8 @@
 
 This is a starter project for using [Parcel](https://parceljs.org/) with [Tailwind CSS](https://tailwindcss.com/).
 
+Looking for a starter project with Vue? Check out [parcel-tailwind-vue-starter](https://github.com/sebastianpopp/parcel-tailwind-vue-starter).
+
 ## Getting Started
 
 1. Fork this repository or run `npx degit sebastianpopp/parcel-tailwind-starter my-project`
